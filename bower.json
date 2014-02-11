@@ -10,7 +10,7 @@
       "./callr.angular.js"
   ],
   "dependencies": {
-      "callr" : ">= 1.0.4",
+      "callr" : "git@github.com:tejacques/bower-callr.git",
       "angular" : ">= 1.0.7"
   },
   "keywords": [
