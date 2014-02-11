@@ -5,12 +5,13 @@
   "authors": [
     "Tom Jacques <tejacques@gmail.com>"
   ],
-  "description": "A SignalR utility library",
+  "description": "A SignalR utility library for AngularJS",
   "main": [
-      "callr.js",
+      "./callr.angular.js"
   ],
   "dependencies": {
-      "callr" : ">= 1.0.4"
+      "callr" : ">= 1.0.4",
+      "angular" : ">= 1.0.7"
   },
   "keywords": [
     "signalr",
