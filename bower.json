@@ -1,0 +1,21 @@
+{
+  "name": "callr.angular",
+  "version": "1.0.3",
+  "homepage": "https://github.com/tejacques/callr",
+  "authors": [
+    "Tom Jacques <tejacques@gmail.com>"
+  ],
+  "description": "A SignalR utility library",
+  "main": [
+      "callr.js",
+  ],
+  "dependencies": {
+      "callr" : ">= 1.0.4"
+  },
+  "keywords": [
+    "signalr",
+    "callr",
+    "angular"
+  ],
+  "license": "MIT"
+}
