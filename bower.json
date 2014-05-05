@@ -10,7 +10,7 @@
       "./callr.angular.js"
   ],
   "dependencies": {
-      "callr" : ">=1.1.0",
+      "callr" : ">=1.1.1",
       "angular" : ">=1.0.7"
   },
   "keywords": [
