@@ -1,6 +1,6 @@
 {
   "name": "callr.angular",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "homepage": "https://github.com/tejacques/callr",
   "authors": [
     "Tom Jacques"
@@ -10,7 +10,7 @@
       "./callr.angular.js"
   ],
   "dependencies": {
-      "callr" : ">=1.1.1",
+      "callr" : ">=1.1.2",
       "angular" : ">=1.0.7"
   },
   "keywords": [
